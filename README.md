@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andray7, a long-time coder of anything programmable.
 - 👀 I’m interested in ... learning about new developments in programming.
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... nicrocontroller app develpment as it applies to airborne remote-controlled vehicles.
+- 💞️ I’m looking to collaborate on ... microcontroller app develpment as it applies to airborne remote-controlled vehicles.
 - 📫 How to reach me ... 
 
 <!---
